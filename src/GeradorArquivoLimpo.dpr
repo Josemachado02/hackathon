@@ -20,7 +20,7 @@ begin
       Gerador.Free;
     end;
 
-    Writeln('Processamento finalizado...' + sLineBreak +'Arquivo salvo na pasta: C:\Temp\Hackathon_Resultado.csv');
+    Writeln('Processamento finalizado...' + sLineBreak +'Arquivo salvo na pasta: C:\Temp\Hackathon_resultado.csv');
     Writeln('Pressione ENTER para sair.');
     Readln;
 
